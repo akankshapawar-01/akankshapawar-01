@@ -1,18 +1,17 @@
 <h2 align="center">Hi there 👋 I'm Akanksha Pawar</h2>
 
 <p align="center">
-  💡 Curious Learner | 📚 Currently on a <b>30 Days of SQL</b> journey  
+  💡 Curious Learner | Currently doing <b> Library Management System </b>
 </p>
 
 ---
-
 ### 🚀 About Me
 
 I'm a Computer Engineering graduate (2023) on a mission to grow, one line of code at a time.  
 After a detour from tech, I'm back — stronger, more focused, and consistently upskilling.
 
 - 🌱 Currently learning: **Java**, **Spring**, **SQL**, **DSA**
-- 🔁 Ongoing Project: `30 Days of SQL` – practicing every day & documenting everything.
+- 🔁 Ongoing Project: LibraryManagementSystem 
 - 📂 Check out my learning folders & follow along. You’ll see the real progress — with ups and downs.
 - 📍 Based in Pune, exploring job opportunities in tech — startups or MNCs.
 ---
@@ -30,14 +29,11 @@ After a detour from tech, I'm back — stronger, more focused, and consistently 
 ### 🔨 Projects to Explore
 - 🧾 `30-Days-of-SQL` – complete hands-on SQL journey (README in every folder!)
 - 🏦 `BankAccount-ConsoleApp` – Java + OOP basics
-
 ---
 
 ### 📫 Let’s Connect
-
 - 📧 Email: pawarakanksha1104@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akanksha-pawar-43063b20a/)  
-
 ---
 
 ##  🌱 *“Consistency is greater than talent.”*  
